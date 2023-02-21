@@ -1,0 +1,15 @@
+{
+  "name": "darknotebook_backend",
+  "version": "1.0.0",
+  "description": "my 3rd practice project in reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sameer Abbas Mughal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
